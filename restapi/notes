@@ -1,0 +1,26 @@
+start with test api get request
+
+then crud
+
+Users-security:
+	username
+	password
+	active
+
+user-roles:
+	USER
+	MODERATOR
+	ADMIN
+
+user-profile:
+	fname
+	lname
+	username (foriegn key - attached to user security)
+	email
+	blurb
+		+ bands/gigs
+
+
+
+
+API listing gigs
